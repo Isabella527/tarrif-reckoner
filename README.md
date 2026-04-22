@@ -1,5 +1,5 @@
 # ⚡ EPSM Tariff Reckoner
-<img width="164" height="130" alt="reckoner" src="https://github.com/user-attachments/assets/b06d49a6-55f0-4f45-a8b8-24389828319a" />
+<img width="1264" height="230" alt="reckoner" src="https://github.com/user-attachments/assets/b06d49a6-55f0-4f45-a8b8-24389828319a" />
 
 
 A desktop-based electricity billing system that computes energy charges and levies using Ghana ECG tariff bands.
@@ -70,16 +70,6 @@ Electricity billing is calculated using a **progressive tier system**, where dif
 
 
 ---
-
-##  Installation
-
-```bash
-git clone https://github.com/yourusername/tariff-reckoner.git
-cd tariff-reckoner
-pip install -r requirements.txt
-python src/reckoner.py
-
-
 ### 📌 Key Concepts
 
 Tiered billing systems used in real-world utilities
@@ -102,3 +92,14 @@ TinyML integration for smart energy devices
 
 ### 👩🏽‍💻 Author
 Isabella Opoku-Ware
+
+##  Installation
+
+```bash
+git clone https://github.com/yourusername/tariff-reckoner.git
+cd tariff-reckoner
+pip install -r requirements.txt
+python src/reckoner.py
+
+
+
