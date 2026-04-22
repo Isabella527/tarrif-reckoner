@@ -22,7 +22,7 @@ This makes it useful not just as a calculator, but also as a **planning and anal
 
 ##  Features
 
-- 🔌Residential & Non-Residential billing modes  
+- Residential & Non-Residential billing modes  
 -  Bidirectional computation  
 - Consumption → Cost  
 - Cost → Consumption  
