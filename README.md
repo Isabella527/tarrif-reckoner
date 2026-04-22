@@ -1,5 +1,5 @@
 # ⚡ EPSM Tariff Reckoner
-<img width="900" height="630" alt="reckoner" src="https://github.com/user-attachments/assets/b06d49a6-55f0-4f45-a8b8-24389828319a" />
+<img width="1398" height="786" alt="tr" src="https://github.com/user-attachments/assets/928dcb4d-3a37-41aa-9e38-79778571b22f" />
 
 
 A desktop-based electricity billing system that computes energy charges and levies using Ghana ECG tariff bands.
